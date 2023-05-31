@@ -2,4 +2,6 @@
 *.json
 *.npy
 *.model
+*.wordvectors
 .ipynb_checkpoints/
+*.txt

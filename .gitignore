@@ -1,2 +1,5 @@
 *.csv
 *.json
+*.npy
+*.model
+.ipynb_checkpoints/
